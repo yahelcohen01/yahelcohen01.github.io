@@ -246,7 +246,7 @@ h6,
 
 /*** Facts ***/
 .facts {
-    position: relative;
+    position: sticky;
     margin: 6rem 0;
     background: var(--dark);
 }
