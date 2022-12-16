@@ -112,6 +112,7 @@ h6,
 .navbar.sticky-top {
     top: -100px;
     transition: .5s;
+    
 }
 
 .navbar .navbar-brand {
